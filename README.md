@@ -21,6 +21,6 @@ I started my channel mid 2023: My goals are to help educate and learn from this 
 
 **Support me**
 
-Becoming a [Patreon](www.patreon.com/TazTech) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
+Becoming a [Patreon](https://www.patreon.com/TazTech) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 
 Help me to create something that matters to people!
